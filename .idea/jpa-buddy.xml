@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="JpaBuddyIdeaProjectConfig">
+  <component name="JpaBuddyIdeaProjectConfig" ddlActionDbType="postgres">
+    <option name="defaultUnitInitialized" value="true" />
     <option name="renamerInitialized" value="true" />
+    <option name="sourceModelValue" value="Default" />
+    <option name="targetDbValue" value="10bbe0d4-a0b0-456e-96ca-6db0e6d87d41" />
+    <option name="snapshotDbValue" value="10bbe0d4-a0b0-456e-96ca-6db0e6d87d41" />
+    <option name="newEntityIdType" value="UUID" />
+    <option name="newEntityIdStrategy" />
   </component>
 </project>

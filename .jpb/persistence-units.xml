@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PersistenceUnitSettings">
+    <persistence-units>
+      <persistence-unit moduleName="zoo-reactive.main" name="Default">
+        <packages>
+          <package value="com.example.zooreactive" />
+        </packages>
+      </persistence-unit>
+      <persistence-unit moduleName="jungle-reactive.main" name="Default">
+        <packages>
+          <package value="com.example.junglereactive" />
+        </packages>
+      </persistence-unit>
+    </persistence-units>
+  </component>
+</project>
